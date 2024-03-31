@@ -5,7 +5,7 @@ Eu sou <strong>Arthur Ângelo</strong>, <strong>Eu sou estudante de Desenvolvime
 - 🚀 Atualmente estou aprendendo: <strong>Inglês</strong> 
 - 💬 Pergunte-me sobre: <strong>Vôlei,filmes,serie e animes</strong>
 - 📣 Nós podemos falar em: <strong>Inglês e português</strong>
--  💅  Se quiser podemos falar sobre coisas do tipo qual foi o evento mais constrangedor da sua vida? etc
+-  💅 Se quiser podemos falar sobre coisas do tipo: <strong>qual foi o evento mais constrangedor da sua vida? etc</strong>
 <div align="center">
 
 <img src="https://media1.tenor.com/m/m1arMEn09NcAAAAd/todo-aoi-todo.gif">
